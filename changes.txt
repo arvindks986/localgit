@@ -1,1 +1,4 @@
-today date is on
+today date is on  
+git add filename or --all
+git commit -m "commit message"
+git push orgin main
